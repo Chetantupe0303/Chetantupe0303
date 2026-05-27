@@ -8,8 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=chetan@github%3A~%24+./init_portfolio.sh;%5B+OK+%5D+Full-Stack+Developer+loaded...;%5B+OK+%5D+AI+Enthusiast+initialized...;%5B+OK+%5D+Problem+Solver+online...;%5B+RDY+%5D+Building+from+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Chetantupe0303&color=00d9ff&style=flat-square&label=Profile+Views)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Chetantupe0303?label=Followers&style=flat-square&color=00d9ff)](https://github.com/Chetantupe0303)
+
 
 </div>
 
