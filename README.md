@@ -170,7 +170,6 @@ I want to build **intelligent systems** that:
 - bridge the gap between AI models and production-grade products
 - feel human, even when powered by machines
 
-> *The next 5 years belong to developers who can merge AI with scalable engineering.*
 
 <br/>
 
