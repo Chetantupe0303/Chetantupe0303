@@ -23,8 +23,6 @@
   NAME     →  Chetan Tupe
   ALIAS    →  CHETANo3
   ROLE     →  Full-Stack Developer
-  LOC      →  India 🇮🇳
-  STATUS   →  [ AVAILABLE ]
   FUEL     →  ☕ Coffee (critical dependency)
 
 ┌──(chetan㉿github)-[~/skills]
