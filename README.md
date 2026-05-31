@@ -73,7 +73,6 @@ TYPE      →  AI × Full-Stack
 STATUS    →  [ LIVE ]
 ```
 
-🔗 [Demo](#) &nbsp;|&nbsp; 🔗 [Repo](#)
 
 <br/>
 
