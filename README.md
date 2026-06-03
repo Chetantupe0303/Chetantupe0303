@@ -233,6 +233,10 @@ Code should:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/chetan-tupe-a2b0a4334/))&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO.com)
 
+
+
+![GitHub GIF](githubgif.gif)
+
 <br/>
 
 ```
@@ -240,7 +244,6 @@ Code should:
 ```
 
 <br/>
-
 *Built with ❤️ + ☕ by **[Chetan Tupe](https://github.com/Chetantupe0303)***
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=100&section=footer" width="100%"/>
