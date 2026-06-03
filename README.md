@@ -237,13 +237,7 @@ Code should:
 
 ![GitHub GIF](githubgif.gif)
 
-<br/>
 
-```
-[ STATUS: OPEN TO COLLABS & OPPORTUNITIES ]
-```
-
-<br/>
 *Built with ❤️ + ☕ by **[Chetan Tupe](https://github.com/Chetantupe0303)***
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=100&section=footer" width="100%"/>
